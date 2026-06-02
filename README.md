@@ -8,13 +8,13 @@
 	</h1>
 	<p class="projectBadges info">
 		<img src="https://johng.io/badges/category/Library.svg" alt="Project category" title="Project category">
-		<img src="https://img.shields.io/github/languages/top/twocaretcat/tally-ts.svg" alt="Language" title="Language">
-		<img src="https://img.shields.io/github/repo-size/twocaretcat/tally-ts.svg" alt="Repository size" title="Repository size">
-		<a href="LICENSE"><img src="https://img.shields.io/github/license/twocaretcat/tally-ts.svg" alt="Project license" title="Project license"/></a>
+		<img src="https://img.shields.io/github/languages/top/caret-collective/tally-ts.svg" alt="Language" title="Language">
+		<img src="https://img.shields.io/github/repo-size/caret-collective/tally-ts.svg" alt="Repository size" title="Repository size">
+		<a href="LICENSE"><img src="https://img.shields.io/github/license/caret-collective/tally-ts.svg" alt="Project license" title="Project license"/></a>
 		<a href="https://github.com/semantic-release/semantic-release"><img src="https://img.shields.io/badge/semantic--release-conventionalcommits-e10079?logo=semantic-release" alt="Semantic Release" title="Semantic Release"/></a>
 	</p>
 	<p class="projectBadges status">
-		<a href="https://github.com/twocaretcat/tally-ts/releases/latest"><img src="https://img.shields.io/github/v/release/twocaretcat/tally-ts.svg" alt="Latest release" title="Latest release"/></a>
+		<a href="https://github.com/caret-collective/tally-ts/releases/latest"><img src="https://img.shields.io/github/v/release/caret-collective/tally-ts.svg" alt="Latest release" title="Latest release"/></a>
 		<a href="https://jsr.io/@twocaretcat/tally-ts"><img src="https://jsr.io/badges/@twocaretcat/tally-ts" alt="View package on JSR" title="View package on JSR" /></a>
 		<a href="https://jsr.io/@twocaretcat/tally-ts"><img src="https://jsr.io/badges/@twocaretcat/tally-ts/score" alt="View package on JSR" title="View package on JSR" /></a>
 		<a href="https://www.npmjs.com/package/@twocaretcat/tally-ts"><img src="https://img.shields.io/npm/v/@twocaretcat/tally-ts" alt="View package on npmjs" title="View package on npmjs"/></a>
@@ -423,7 +423,7 @@ Here is an overview of how we determine the counts for each token type:
 
 ## 🛟 Support
 
-Need help? See the [support resources](https://github.com/twocaretcat/.github/blob/main/docs/SUPPORT.md) for information on how to:
+Need help? See the [support resources](https://github.com/caret-collective/.github/blob/main/docs/SUPPORT.md) for information on how to:
 
 - request features
 - report bugs
@@ -454,14 +454,14 @@ This project is licensed under the MIT license. See the [license](LICENSE) for m
 
 Other projects you might like:
 
-- **👤 [Tally Chrome Extension](https://github.com/twocaretcat/Tally-Extension)**: A Chrome extension to easily count
+- **👤 [Tally Chrome Extension](https://github.com/caret-collective/Tally-Extension)**: A Chrome extension to easily count
   the number of words, characters, and paragraphs on any site
 
 ### Used By
 
 Notable projects that depend on this one:
 
-- **👤 [Tally](https://github.com/twocaretcat/Tally)**: A free online tool to count the number of characters, words,
+- **👤 [Tally](https://github.com/caret-collective/Tally)**: A free online tool to count the number of characters, words,
   paragraphs, and lines in your text. **Tally** uses this library to compute counts
 
 ### Alternatives

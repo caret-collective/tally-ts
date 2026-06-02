@@ -10,6 +10,7 @@ const AUTHOR = {
 	username: 'twocaretcat',
 	domain: 'johng.io',
 } as const;
+const ORG = 'caret-collective' as const;
 const PACKAGE_NAME = 'tally-ts' as const;
 const DIR = {
 	src: './src',
@@ -84,10 +85,10 @@ await build({
 		},
 		repository: {
 			type: 'git',
-			url: `git+https://github.com/${AUTHOR.username}/${PACKAGE_NAME}.git`,
+			url: `git+https://github.com/${ORG}/${PACKAGE_NAME}.git`,
 		},
 		homepage: `https://${AUTHOR.domain}/p/${PACKAGE_NAME}`,
-		bugs: `https://github.com/${AUTHOR.username}/${PACKAGE_NAME}/issues`,
+		bugs: `https://github.com/${ORG}/${PACKAGE_NAME}/issues`,
 		funding: [
 			{
 				type: 'individual',

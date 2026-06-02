@@ -5,7 +5,7 @@ contributing to the project.
 
 ## Reporting Issues
 
-You can [create an issue](https://github.com/twocaretcat/tally-ts/issues) to request a new feature or report a problem
+You can [create an issue](https://github.com/caret-collective/tally-ts/issues) to request a new feature or report a problem
 with the project. Make sure a similar issue doesn't already exist.
 
 ### Feature Requests
@@ -317,5 +317,5 @@ By contributing to this project, you agree that your contributions will be licen
 [license](../LICENSE).
 
 [dnt]: https://github.com/denoland/dnt
-[discussion]: https://github.com/twocaretcat/tally-ts/discussions
+[discussion]: https://github.com/caret-collective/tally-ts/discussions
 [deno.json]: ../deno.json
