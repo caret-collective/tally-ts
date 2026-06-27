@@ -444,7 +444,7 @@ See the [contribution guide](../../contribute) for more details.
 
 ## 🧾 License
 
-Copyright © 2025 [John Goodliff](https://johng.io/r/tally-ts) ([@twocaretcat](https://github.com/twocaretcat)).
+Copyright © 2026 [John Goodliff](https://johng.io/r/tally-ts) ([@twocaretcat](https://github.com/twocaretcat)).
 
 This project is licensed under the MIT license. See the [license](LICENSE) for more details.
 
