@@ -4,10 +4,8 @@ on:
   push:
     branches:
       - main
-
 permissions:
   contents: read # for checkout
-
 jobs:
   release:
     name: 🚀 Publish
@@ -19,18 +17,19 @@ jobs:
       id-token: write # to enable use of OIDC for npm provenance
     steps:
       - name: 📂 Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
+          persist-credentials: false
 
       - name: 🦕 Setup Deno
-        uses: denoland/setup-deno@v2
+        uses: denoland/setup-deno@22d081ff2d3a40755e97629de92e3bcbfa7cf2ed # v2.0.5
         with:
           deno-version: v2.x
           cache: true
 
       - name: 🟢 Setup Node.js
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6.5.0
         with:
           node-version: 'lts/*'
 
